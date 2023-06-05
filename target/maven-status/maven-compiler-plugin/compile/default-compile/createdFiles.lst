@@ -1,0 +1,6 @@
+com/ecommerce/Ecommerce/repository/CategoryRepo.class
+com/ecommerce/Ecommerce/service/CategoryService.class
+com/ecommerce/Ecommerce/model/Category.class
+com/ecommerce/Ecommerce/config/Webconfig.class
+com/ecommerce/Ecommerce/controller/CategoryController.class
+com/ecommerce/Ecommerce/config/Webconfig$1.class
